@@ -27,7 +27,7 @@ __webpack_require__.r(__webpack_exports__);
 // The list of file replacements can be found in `angular.json`.
 const environment = {
     production: false,
-    mapboxToken: 'pk.eyJ1IjoiYWh1Zi1hbHZhcm8iLCJhIjoiY2t2bGJiMDl0MHRkbTJubzBhdXN2Yjg0YSJ9.Ou69leZ88bnCxEIfBczYHA'
+    mapboxToken: 'pk.eyJ1Ijoia2xlcml0aCIsImEiOiJja2puMHhrODI1NG95MnJwOTZldjAwd2xuIn0.qSVIwYh9D-wVyzUne3euog'
 };
 /*
  * For easier debugging in development mode, you can import the following file
